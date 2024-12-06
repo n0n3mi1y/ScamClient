@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "9x0T6sXYvT0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\n0n3mi1y\\source\\repos\\ScamClient\\ScamClient\\ScamClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\n0n3mi1y\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\n0n3mi1y\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1604",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Зависимость проекта Microsoft.NETFramework.ReferenceAssemblies не содержит включенную нижнюю границу. Включите нижнюю границу в версию зависимости, чтобы обеспечить согласованные результаты восстановления.",
+      "libraryId": "Microsoft.NETFramework.ReferenceAssemblies",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.2"
+      ]
+    }
+  ]
+}

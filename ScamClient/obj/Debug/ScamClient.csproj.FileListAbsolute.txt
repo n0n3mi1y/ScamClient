@@ -1,0 +1,6 @@
+C:\Users\n0n3mi1y\source\repos\ScamClient\ScamClient\bin\Debug\ScamClient.dll
+C:\Users\n0n3mi1y\source\repos\ScamClient\ScamClient\bin\Debug\ScamClient.pdb
+C:\Users\n0n3mi1y\source\repos\ScamClient\ScamClient\obj\Debug\ScamClient.csproj.AssemblyReference.cache
+C:\Users\n0n3mi1y\source\repos\ScamClient\ScamClient\obj\Debug\ScamClient.csproj.CoreCompileInputs.cache
+C:\Users\n0n3mi1y\source\repos\ScamClient\ScamClient\obj\Debug\ScamClient.dll
+C:\Users\n0n3mi1y\source\repos\ScamClient\ScamClient\obj\Debug\ScamClient.pdb
